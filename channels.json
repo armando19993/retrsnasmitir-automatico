@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Channel 1",
+        "url": "https://www.tdmax.com/player/channel/617c2f66e4b045a692106126?isFromTabLayout=true",
+        "rtmp_url": "rtmp://fluestabiliz.giize.com/costaCANAL11",
+        "playlist_url": "https://api.streann.tech/loadbalancer/services/v1/channels-secure/617c2f66e4b045a692106126/playlist.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MTgwNzhhZmU0YjA5YzYzYWUzZjNhMzQiLCJzdWIiOiJhcmxvcGZhQGdtYWlsLmNvbSIsInNjb3BlIjpbInNlcnZpY2VzIl0sInJscyI6IlJPTEVfVVNFUiIsInJpZCI6IjYxMzE2NzA1ZTRiMDI5NWY4N2RhZTM5NiIsImV4cCI6MTczNTY5MjkyNCwianRpIjoiMzYxMGQzMzgtMTg5Ny00OTQzLWI2NmQtMDlkYWY5YTg2NWFlIiwiY2xpZW50X2lkIjoiNjZiNzQxOTQ0OTM5NzAxMjI3YjQ1YjYwODFkN2UwOWQ4MWFiMTdkNGQ4OGQ0YzIyODAzNjgwMDYwMWE2In0.jezflxK-Bfo095sbbY8SAtBdS6c5aKKYgrN7FpwmS0o&device-id=tFA85BfatnDAD3upZztZBW6CJc1OyTCOk55HNOmEIzgQeCOzic&device-type=web&device-name=web&withCredentials=false&doNotUseRedirect=true&country_code=CL&r=61316705e4b0295f87dae396"
+    },
+    {
+        "name": "Channel 2",
+        "url": "https://www.tdmax.com/player/channel/65d7aca4e4b0140cbf380bd0?isFromTabLayout=true",
+        "rtmp_url": null,
+        "playlist_url": "https://api.streann.tech/loadbalancer/services/v1/channels-secure/617c2f66e4b045a692106126/playlist.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MTgwNzhhZmU0YjA5YzYzYWUzZjNhMzQiLCJzdWIiOiJhcmxvcGZhQGdtYWlsLmNvbSIsInNjb3BlIjpbInNlcnZpY2VzIl0sInJscyI6IlJPTEVfVVNFUiIsInJpZCI6IjYxMzE2NzA1ZTRiMDI5NWY4N2RhZTM5NiIsImV4cCI6MTczNTY5MjkyNCwianRpIjoiMzYxMGQzMzgtMTg5Ny00OTQzLWI2NmQtMDlkYWY5YTg2NWFlIiwiY2xpZW50X2lkIjoiNjZiNzQxOTQ0OTM5NzAxMjI3YjQ1YjYwODFkN2UwOWQ4MWFiMTdkNGQ4OGQ0YzIyODAzNjgwMDYwMWE2In0.jezflxK-Bfo095sbbY8SAtBdS6c5aKKYgrN7FpwmS0o&device-id=tFA85BfatnDAD3upZztZBW6CJc1OyTCOk55HNOmEIzgQeCOzic&device-type=web&device-name=web&withCredentials=false&doNotUseRedirect=true&country_code=CL&r=61316705e4b0295f87dae396"
+    },
+    {
+        "name": "Channel 3",
+        "url": "https://www.tdmax.com/player/channel/641cba02e4b068d89b2344e3?isFromTabLayout=true",
+        "rtmp_url": null,
+        "playlist_url": "https://api.streann.tech/loadbalancer/services/v1/channels-secure/617c2f66e4b045a692106126/playlist.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MTgwNzhhZmU0YjA5YzYzYWUzZjNhMzQiLCJzdWIiOiJhcmxvcGZhQGdtYWlsLmNvbSIsInNjb3BlIjpbInNlcnZpY2VzIl0sInJscyI6IlJPTEVfVVNFUiIsInJpZCI6IjYxMzE2NzA1ZTRiMDI5NWY4N2RhZTM5NiIsImV4cCI6MTczNTY5MjkyNCwianRpIjoiMzYxMGQzMzgtMTg5Ny00OTQzLWI2NmQtMDlkYWY5YTg2NWFlIiwiY2xpZW50X2lkIjoiNjZiNzQxOTQ0OTM5NzAxMjI3YjQ1YjYwODFkN2UwOWQ4MWFiMTdkNGQ4OGQ0YzIyODAzNjgwMDYwMWE2In0.jezflxK-Bfo095sbbY8SAtBdS6c5aKKYgrN7FpwmS0o&device-id=tFA85BfatnDAD3upZztZBW6CJc1OyTCOk55HNOmEIzgQeCOzic&device-type=web&device-name=web&withCredentials=false&doNotUseRedirect=true&country_code=CL&r=61316705e4b0295f87dae396"
+    },
+    {
+        "name": "Channel 4",
+        "url": "https://www.tdmax.com/player/channel/65d7ac79e4b0140cbf380bca?isFromTabLayout=true",
+        "rtmp_url": null,
+        "playlist_url": "https://api.streann.tech/loadbalancer/services/v1/channels-secure/617c2f66e4b045a692106126/playlist.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MTgwNzhhZmU0YjA5YzYzYWUzZjNhMzQiLCJzdWIiOiJhcmxvcGZhQGdtYWlsLmNvbSIsInNjb3BlIjpbInNlcnZpY2VzIl0sInJscyI6IlJPTEVfVVNFUiIsInJpZCI6IjYxMzE2NzA1ZTRiMDI5NWY4N2RhZTM5NiIsImV4cCI6MTczNTY5MjkyNCwianRpIjoiMzYxMGQzMzgtMTg5Ny00OTQzLWI2NmQtMDlkYWY5YTg2NWFlIiwiY2xpZW50X2lkIjoiNjZiNzQxOTQ0OTM5NzAxMjI3YjQ1YjYwODFkN2UwOWQ4MWFiMTdkNGQ4OGQ0YzIyODAzNjgwMDYwMWE2In0.jezflxK-Bfo095sbbY8SAtBdS6c5aKKYgrN7FpwmS0o&device-id=tFA85BfatnDAD3upZztZBW6CJc1OyTCOk55HNOmEIzgQeCOzic&device-type=web&device-name=web&withCredentials=false&doNotUseRedirect=true&country_code=CL&r=61316705e4b0295f87dae396"
+    },
+    {
+        "name": "Channel 5",
+        "url": "https://www.tdmax.com/player/channel/664237788f085ac1f2a15f81?isFromTabLayout=true",
+        "rtmp_url": null,
+        "playlist_url": "https://api.streann.tech/loadbalancer/services/v1/channels-secure/617c2f66e4b045a692106126/playlist.m3u8?access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1aWQiOiI2MTgwNzhhZmU0YjA5YzYzYWUzZjNhMzQiLCJzdWIiOiJhcmxvcGZhQGdtYWlsLmNvbSIsInNjb3BlIjpbInNlcnZpY2VzIl0sInJscyI6IlJPTEVfVVNFUiIsInJpZCI6IjYxMzE2NzA1ZTRiMDI5NWY4N2RhZTM5NiIsImV4cCI6MTczNTY5MjkyNCwianRpIjoiMzYxMGQzMzgtMTg5Ny00OTQzLWI2NmQtMDlkYWY5YTg2NWFlIiwiY2xpZW50X2lkIjoiNjZiNzQxOTQ0OTM5NzAxMjI3YjQ1YjYwODFkN2UwOWQ4MWFiMTdkNGQ4OGQ0YzIyODAzNjgwMDYwMWE2In0.jezflxK-Bfo095sbbY8SAtBdS6c5aKKYgrN7FpwmS0o&device-id=tFA85BfatnDAD3upZztZBW6CJc1OyTCOk55HNOmEIzgQeCOzic&device-type=web&device-name=web&withCredentials=false&doNotUseRedirect=true&country_code=CL&r=61316705e4b0295f87dae396"
+    }
+]
