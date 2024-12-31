@@ -142,7 +142,7 @@ const broadcastManager = {
 };
 
 // Endpoint
-app.post('/actualizar', async (req, res) => {
+app.get('/actualizar', async (req, res) => {
     try {
         const hlsUrls = await getHlsUrls();
         for (const [index, hlsUrl] of hlsUrls.entries()) {
